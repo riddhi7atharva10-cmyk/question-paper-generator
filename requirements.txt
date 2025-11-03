@@ -1,0 +1,5 @@
+streamlit==1.39.0
+redis==5.0.4
+bcrypt==4.2.0
+
+#redis-cli -u redis://default:XshEuhtiWR0lQLxwjSaT5l3mwVETo9Lv@redis-11134.c265.us-east-1-2.ec2.redns.redis-cloud.com:11134
