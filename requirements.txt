@@ -1,5 +1,6 @@
-streamlit==1.39.0
-redis==5.0.4
-bcrypt==4.2.0
+streamlit>=1.32.0
+pandas>=2.2.0
+PyPDF2>=3.0.1
+reportlab>=4.0.8
 
 #redis-cli -u redis://default:XshEuhtiWR0lQLxwjSaT5l3mwVETo9Lv@redis-11134.c265.us-east-1-2.ec2.redns.redis-cloud.com:11134
